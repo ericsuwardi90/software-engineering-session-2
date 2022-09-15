@@ -5,3 +5,4 @@ Cara membuat indomie
 
 ini commit berikut nya 
 ini tambahan
+ini tambahan 2
